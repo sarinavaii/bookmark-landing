@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap");
+
+:root {
+    --clr-blue: hsl(231, 69%, 60%);
+    --clr-transparent-blue: hsla(229, 31%, 21%, 0.85);
+    --clr-dark-blue: hsl(229, 31%, 21%);
+    --clr-red: hsl(0, 94%, 66%);
+    --clr-gray: hsl(229, 8%, 60%);
+    --clr-light-gray: hsl(240, 7%, 97%);
+    --clr-black: hsl(0, 0%, 0%);
+    --clr-white: hsl(0, 0%, 100%);
+}
+
+body {
+    font-family: "Rubik", sans-serif;
+    color: var(--clr-dark-blue);
+    overflow-x: hidden;
+}
