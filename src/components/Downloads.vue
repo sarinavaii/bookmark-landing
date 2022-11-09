@@ -92,8 +92,6 @@ section {
                 margin-top: 5rem;
             }
         }
-        &-title {
-        }
         &-subtitle {
             font-size: 1rem;
             color: var(--clr-gray);
