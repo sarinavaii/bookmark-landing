@@ -129,7 +129,7 @@ header {
 @media (max-width: 767px) {
     .navbar-offcanvas {
         width: 100%;
-        background: linear-gradient(0deg, rgba(43, 48, 74, 1) 25%, rgba(37, 43, 70, 1) 90%);
+        background: linear-gradient(0deg, rgb(43, 48, 74, 90%) 25%, rgb(37, 43, 70, 95%) 90%);
         .offcanvas-header {
             margin: 1rem 0;
         }
